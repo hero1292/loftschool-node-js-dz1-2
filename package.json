@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Node JS Course LoftSchool",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hero1292/loftschool-node-js-dz1-2.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
