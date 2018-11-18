@@ -1,10 +1,6 @@
 .DS_Store
 node_modules/
 /dist/
-/dz1/entry/
-/dz1/entry2/
-/dz1_2/entry/
-/dz1_2/entry2/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
